@@ -11,3 +11,5 @@ In this case, I test three different python versions: 3.9, 3.10 and 3.11.
 Across the different versions, we see a successful build.
 ![image](https://github.com/user-attachments/assets/fb764ba3-c3ba-4620-acc4-28b438bc6cd3)
 
+## Instructions for Use
+To use this repository, start by cloning the repository. Make sure all the requirements in requirements.txt are fulfilled as these are necessary libraries to run the python script and build test. Finally, run the script, sample.py to use it's method.
